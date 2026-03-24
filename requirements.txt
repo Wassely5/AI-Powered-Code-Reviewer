@@ -1,0 +1,2 @@
+openai
+requests # For potential future API calls or extensions
